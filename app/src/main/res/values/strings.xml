@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Radio Streaming RnB and HipHop</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IN</string>
+
+    <string name="slide_1_title">NICE RADIO</string>
+    <string name="slide_1_desc">Streaming Radio RnB and Hip Hop</string>
+
+    <string name="slide_2_title">NICE SONGS</string>
+    <string name="slide_2_desc">Streaming Radio RnB and Hip Hop</string>
+
+    <string name="slide_3_title">NICE SOUND</string>
+    <string name="slide_3_desc">Streaming Radio RnB and Hip Hop</string>
+
+    <string name="slide_4_title">NICE FREQUENCY</string>
+    <string name="slide_4_desc">Streaming Radio RnB and Hip Hop</string>
+</resources>
